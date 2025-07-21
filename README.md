@@ -28,7 +28,8 @@ This project features a **Power BI dashboard** designed to analyze the **sales a
 
 - `plantco report.pdf` — Full project report  
 - `PBi Dashboard.pbix` — Power BI dashboard file   
-- `Plant_DTS.xlsx` — Cleaned source data   
+- `Plant_DTS.xlsx` — Cleaned source data
+- 'dashboard.png'-Dashboard overview
 
 ---
 
